@@ -14,11 +14,11 @@
 
 ## About Me
 
-Business Analytics graduate focused on applying AI and data engineering to real business problems. I build production-style AI applications — from retrieval-augmented chatbots to forecasting dashboards — combining machine learning with clear business reasoning.
+Business Analytics graduate focused on applying AI and data engineering to real business problems. I build production-style AI applications, from retrieval-augmented chatbots to forecasting dashboards, combining machine learning with clear business reasoning.
 
-- 🤖 AI & Generative AI — LLM applications, RAG pipelines, agentic workflows
-- 🧠 Machine Learning & Deep Learning — from classic ML to NLP
-- 📊 Business Intelligence — translating data into decisions
+- 🤖 AI & Generative AI: LLM applications, RAG pipelines, agentic workflows
+- 🧠 Machine Learning & Deep Learning: from classic ML to NLP
+- 📊 Business Intelligence: translating data into decisions
 - ⚙️ Shipping AI products with FastAPI, Streamlit & Docker
 
 <br>
