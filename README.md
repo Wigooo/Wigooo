@@ -1,103 +1,107 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1C3C3C&height=220&section=header&text=Mohamed%20Ahmed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Business%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=20"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+with+AI+%26+Data;Turning+Data+into+Decisions;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohamed%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Business%20Analyst%20%C2%B7%20ML%20Enthusiast&descAlignY=60&descSize=16&descColor=cfd8dc"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohamed-ahmed-wagih-237625323"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:mohamedwagih7802@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Wigooo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=2C5364&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI+%26+Data" alt="Typing SVG"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wigooo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Wigooo?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
-</p>
+<a href="https://linkedin.com/in/mohamed-ahmed-wagih-237625323"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="mailto:mohamedwagih7802@gmail.com"><img src="https://img.shields.io/badge/Email-2C5364?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Wigooo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+</div>
 
-## 🚀 About Me
+<br>
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/code.gif">
+## About Me
 
-- 🎓 Business Analytics Graduate — Egyptian Russian University
-- 🤖 Passionate about Artificial Intelligence & Generative AI
-- 🧠 Experienced in Machine Learning, Deep Learning & NLP
-- ⚡ Building AI-powered applications using FastAPI, Streamlit, and Python
-- 📊 Interested in Data Engineering, Analytics & Business Intelligence
-- 💬 Ask me about **RAG pipelines, LangGraph agents & BI dashboards**
+Business Analytics graduate focused on applying AI and data engineering to real business problems. I build production-style AI applications — from retrieval-augmented chatbots to forecasting dashboards — combining machine learning with clear business reasoning.
 
-<br clear="right"/>
+- 🤖 AI & Generative AI — LLM applications, RAG pipelines, agentic workflows
+- 🧠 Machine Learning & Deep Learning — from classic ML to NLP
+- 📊 Business Intelligence — translating data into decisions
+- ⚙️ Shipping AI products with FastAPI, Streamlit & Docker
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<br>
 
-## 💻 Tech Stack
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,bash&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,huggingface&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,powerbi,tableau&theme=dark" />
-</p>
+<table align="center" border="0">
+<tr>
+<td align="center" width="140"><b>Languages</b></td>
+<td>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>AI / ML</b></td>
+<td>
 
-## 📈 GitHub Stats
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wigooo&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wigooo&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="170"/>
-</p>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Engineering</b></td>
+<td>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Wigooo&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wigooo&theme=tokyonight&column=4&margin-w=8&margin-h=8" alt="Trophies"/>
-</p>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Data & BI</b></td>
+<td>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wigooo&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+</td>
+</tr>
+</table>
 
-## 🐍 Contribution Snake
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Wigooo/Wigooo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
+## GitHub Stats
 
-> يحتاج خطوة إعداد بسيطة عن طريق GitHub Action (ملف `snake.yml` المرفق) عشان يشتغل ويتحدث يومياً.
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Wigooo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wigooo&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" height="165"/>
 
-## 📫 Connect With Me
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Wigooo&theme=tokyonight&hide_border=true&border_radius=8" width="60%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohamed-ahmed-wagih-237625323"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:mohamedwagih7802@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Wigooo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+</div>
 
-<p align="center"><i>"Artificial Intelligence is not about replacing humans, it's about amplifying human potential."</i></p>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C3C3C,100:0E75B6&height=120&section=footer"/>
+## Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mohamed-ahmed-wagih-237625323"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="mailto:mohamedwagih7802@gmail.com"><img src="https://img.shields.io/badge/Email-2C5364?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Wigooo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
