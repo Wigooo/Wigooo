@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
-<h3 align="center">AI Engineer | Business Analyst | Machine Learning Enthusiast</h3>
-<p align="center">Building intelligent systems powered by AI, Data, and Modern Engineering.</p>
+<h1 align="center">Hi there, I'm Mohamed Ahmed 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=AI+Engineer;Business+Analyst;Machine+Learning+Enthusiast;Building+Intelligent+Systems+with+AI+%26+Data" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohamed-ahmed-wagih-237625323"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mohamedwagih7802@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Wigooo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wigooo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -57,19 +63,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🎓 **Daleel** | AI academic advising platform for guiding students through course and career decisions |
-| 🚖 **NYC Yellow Taxi ETL Pipeline** | End-to-end ETL pipeline processing large-scale NYC taxi trip data |
-| 🌤 **Delhi Climate AI Forecasting Dashboard** | Forecasting dashboard using ML models on historical climate data |
-| 🎓 **University Admission Chatbot** | Conversational AI assistant handling admission-related student queries |
-| 📰 **Neural News Search Engine** | Semantic search engine over news articles using embeddings and vector search |
-| ❤️ **Medical Condition Prediction** | ML model predicting medical conditions from patient data |
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -89,17 +82,25 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wigooo&theme=tokyo-night" alt="Activity Graph"/>
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wigooo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://raw.githubusercontent.com/Wigooo/Wigooo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
+
+> Note: the snake needs a small one-time setup (a GitHub Action in your repo) to generate — I've included the workflow file below.
 
 ---
 
 ## 📫 Connect
 
-- 💼 LinkedIn: [mohamed-ahmed-wagih-237625323](https://linkedin.com/in/mohamed-ahmed-wagih-237625323)
-- 🐙 GitHub: [@Wigooo](https://github.com/Wigooo)
-- 📧 Email: [mohamedwagih7802@gmail.com](mailto:mohamedwagih7802@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/mohamed-ahmed-wagih-237625323"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:mohamedwagih7802@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Wigooo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
