@@ -83,9 +83,6 @@ Business Analytics graduate focused on applying AI and data engineering to real 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Wigooo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wigooo&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" height="165"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Wigooo&theme=tokyonight&hide_border=true&border_radius=8" width="60%"/>
 
 </div>
