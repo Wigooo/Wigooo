@@ -1,82 +1,106 @@
-# Hi 👋, I'm Mohamed Ahmed
+<h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
+<h3 align="center">AI Engineer | Business Analyst | Machine Learning Enthusiast</h3>
+<p align="center">Building intelligent systems powered by AI, Data, and Modern Engineering.</p>
 
-### AI Engineer \| Business Analyst \| Machine Learning Enthusiast
+<p align="center">
+  <a href="https://linkedin.com/in/mohamed-ahmed-wagih-237625323"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:mohamedwagih7802@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Wigooo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-Building intelligent systems powered by AI, Data, and Modern
-Engineering.
-
-------------------------------------------------------------------------
+---
 
 ## 🚀 About Me
 
--   🎓 Business Analytics Graduate -- Egyptian Russian University
--   🤖 Passionate about Artificial Intelligence & Generative AI
--   🧠 Experienced in Machine Learning, Deep Learning & NLP
--   ⚡ Building AI-powered applications using FastAPI, Streamlit, and
-    Python
--   📊 Interested in Data Engineering, Analytics & Business Intelligence
+- 🎓 Business Analytics Graduate — Egyptian Russian University
+- 🤖 Passionate about Artificial Intelligence & Generative AI
+- 🧠 Experienced in Machine Learning, Deep Learning & NLP
+- ⚡ Building AI-powered applications using FastAPI, Streamlit, and Python
+- 📊 Interested in Data Engineering, Analytics & Business Intelligence
 
-------------------------------------------------------------------------
+---
 
 ## 💻 Tech Stack
 
-### Languages
+**Languages**
 
-`Python` `R` `SQL` `DAX` `Bash`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### AI & ML
+**AI & Machine Learning**
 
-`PyTorch` `TensorFlow` `Scikit-Learn` `LangChain` `LangGraph`
-`HuggingFace` `Pinecone`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
 
-### Frameworks
+**Frameworks & Tools**
 
-`FastAPI` `Streamlit` `Docker`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Data
+**Data & Analytics**
 
-`Pandas` `NumPy` `Databricks` `Power BI` `Tableau` `Plotly`
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-------------------------------------------------------------------------
+---
 
 ## 🚀 Featured Projects
 
--   🎓 Daleel -- AI Academic Advising Platform
--   🚖 NYC Yellow Taxi ETL Pipeline
--   🌤 Delhi Climate AI Forecasting Dashboard
--   🎓 University Admission Chatbot
--   📰 Neural News Search Engine
--   ❤️ Medical Condition Prediction
+| Project | Description |
+|---|---|
+| 🎓 **Daleel** | AI academic advising platform for guiding students through course and career decisions |
+| 🚖 **NYC Yellow Taxi ETL Pipeline** | End-to-end ETL pipeline processing large-scale NYC taxi trip data |
+| 🌤 **Delhi Climate AI Forecasting Dashboard** | Forecasting dashboard using ML models on historical climate data |
+| 🎓 **University Admission Chatbot** | Conversational AI assistant handling admission-related student queries |
+| 📰 **Neural News Search Engine** | Semantic search engine over news articles using embeddings and vector search |
+| ❤️ **Medical Condition Prediction** | ML model predicting medical conditions from patient data |
 
-------------------------------------------------------------------------
+---
 
 ## 📈 GitHub Stats
 
-Replace `Wigooo` if the username changes.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wigooo&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wigooo&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
 
-``` text
-https://github-readme-stats.vercel.app/api?username=Wigooo&show_icons=true&theme=tokyonight
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Wigooo&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Wigooo&layout=compact&theme=tokyonight
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Wigooo&theme=tokyonight&column=4" alt="Trophies"/>
+</p>
 
-https://streak-stats.demolab.com?user=Wigooo&theme=tokyonight
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wigooo&theme=tokyo-night" alt="Activity Graph"/>
+</p>
 
-https://github-profile-trophy.vercel.app/?username=Wigooo&theme=tokyonight&column=4
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wigooo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-https://github-readme-activity-graph.vercel.app/graph?username=Wigooo&theme=tokyo-night
-
-https://komarev.com/ghpvc/?username=Wigooo&label=Profile%20Views&color=0e75b6&style=flat
-```
-
-------------------------------------------------------------------------
+---
 
 ## 📫 Connect
 
--   GitHub: https://github.com/Wigooo
--   LinkedIn: https://linkedin.com/in/mohamed-ahmed-wagih-237625323
--   Email: mohamedwagih7802@gmail.com
+- 💼 LinkedIn: [mohamed-ahmed-wagih-237625323](https://linkedin.com/in/mohamed-ahmed-wagih-237625323)
+- 🐙 GitHub: [@Wigooo](https://github.com/Wigooo)
+- 📧 Email: [mohamedwagih7802@gmail.com](mailto:mohamedwagih7802@gmail.com)
 
-------------------------------------------------------------------------
+---
 
-> "Artificial Intelligence is not about replacing humans, it's about
-> amplifying human potential."
+<p align="center"><i>"Artificial Intelligence is not about replacing humans, it's about amplifying human potential."</i></p>
